@@ -1,4 +1,4 @@
-# PrimidProgram-In-c++
+# PrimidProgramC++
 #include <iostream>
 using namespace std;
 
